@@ -91,8 +91,8 @@ https://github.com/user-attachments/assets/d84e24d1-8106-4456-a8fe-b8b9fdac8552
 ### 1. Clone and Setup
 
 ```bash
-# Clone the repository
-git clone https://github.com/Aryanjstar/AI-Career-Navigator.git
+# Clone the repository (replace with your fork or org)
+git clone https://github.com/your-org/AI-Career-Navigator.git
 cd AI-Career-Navigator
 
 # Install dependencies
@@ -404,9 +404,9 @@ python --version  # Should be 3.11+
 ## 📞 Support
 
 - **Live Demo**: [ai-career-navigator-backend.azurewebsites.net](https://ai-career-navigator-backend.azurewebsites.net)
-- **Issues**: [GitHub Issues](https://github.com/Aryanjstar/AI-Career-Navigator/issues)
-- **Email**: aryanjstar3@gmail.com
-- **LinkedIn**: [Aryan Jaiswal](https://www.linkedin.com/in/aryanjstar/)
+- **Issues**: [GitHub Issues](https://github.com/your-org/AI-Career-Navigator/issues)
+- **Email**: support@ai-career-navigator.example
+- **LinkedIn**: [Project LinkedIn](https://www.linkedin.com/company/your-company/)
 
 ## 📄 License
 
