@@ -95,13 +95,7 @@ def config():
             "skill_assessment": True
         },
         "tech_stack": ["Python", "Flask", "Azure OpenAI", "React", "Tailwind CSS"],
-        "responsive": True,
-        "developer": {
-            "name": "Aryan Jaiswal",
-            "email": "aryanjstar3@gmail.com",
-            "linkedin": "https://www.linkedin.com/in/aryanjstar",
-            "github": "https://github.com/Aryanjstar/AI-Career-Navigator"
-        }
+        "responsive": True
     })
 
 # Error handlers
