@@ -4,7 +4,6 @@
 [![React](https://img.shields.io/badge/React-18.3.1-blue.svg)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.6.3-blue.svg)](https://www.typescriptlang.org/)
 [![Python](https://img.shields.io/badge/Python-3.11-blue.svg)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 > **Transform your career with AI-powered resume analysis, skill gap identification, and personalized interview preparation.**
 
@@ -408,23 +407,10 @@ python --version  # Should be 3.11+
 - **Email**: support@ai-career-navigator.example
 - **LinkedIn**: [Project LinkedIn](https://www.linkedin.com/company/your-company/)
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - **Azure OpenAI Team** for powerful AI capabilities
 - **React Three Fiber** community for 3D web development
 - **Tailwind Labs** for outstanding CSS framework
 - **Open Source Contributors** who make projects like this possible
 
-## 🌟 Show Your Support
-
-If this project helps you land your dream job, please ⭐ star this repository and share it with others!
-
----
-
-**Built with ❤️ for the developer community**
-
-_Empowering careers through AI innovation_
