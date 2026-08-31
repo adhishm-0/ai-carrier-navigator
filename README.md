@@ -337,21 +337,21 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 
 ## 📈 Roadmap
 
-### Q1 2024
+### Q1 2026
 
 - [ ] **Multi-language Support** (Spanish, French, German)
 - [ ] **LinkedIn Integration** for automatic profile sync
 - [ ] **Video Interview Practice** with AI feedback
 - [ ] **Career Path Visualization** with interactive timelines
 
-### Q2 2024
+### Q2 2026
 
 - [ ] **Company-specific Analysis** (FAANG, startups, etc.)
 - [ ] **Peer Comparison** and benchmarking
 - [ ] **Mobile App** (React Native)
 - [ ] **Advanced Analytics** with ML insights
 
-### Q3 2024
+### Q3 2026
 
 - [ ] **AI Mock Interviews** with voice interaction
 - [ ] **Portfolio Builder** with AI assistance

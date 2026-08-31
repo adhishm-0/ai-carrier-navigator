@@ -274,7 +274,7 @@ const Layout = () => {
                     </div>
 
                     <div className="border-t border-secondary-200 mt-12 pt-8 flex flex-col md:flex-row justify-between items-center">
-                        <p className="text-secondary-500 text-sm">© 2024 AI Career Navigator. Built with Azure OpenAI and Microsoft technologies.</p>
+                        <p className="text-secondary-500 text-sm">© 2026 AI Career Navigator. Built with Azure OpenAI and Microsoft technologies.</p>
                         <div className="flex items-center space-x-6 mt-4 md:mt-0">
                             <span className="text-sm text-secondary-500">Powered by:</span>
                             <div className="flex items-center space-x-4">
